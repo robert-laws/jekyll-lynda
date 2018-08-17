@@ -1,14 +1,15 @@
 # Site Configuration
 
-title: Your awesome title
-subtitle: learning about jekyll
+title: "Jekyll Site - Learning Project"
+subtitle: "Getting up-to-speed with jekyll"
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: "Practicing how to set-up and maintain a blog website using the Jekyll - a static site generator."
+
+# Path information
+baseurl: ""
+url: ""
+
+# Social media accounts
 twitter_username: roblaws75
 github_username:  robert-laws
 
