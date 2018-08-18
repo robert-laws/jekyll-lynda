@@ -4,3 +4,19 @@
   margin: 0;
   padding: 0;
 }
+
+body > header, body > section.content, body > footer {
+  padding: 10px;
+}
+
+body > header {
+  border: 10px solid #F00;
+}
+
+body > section.content {
+  border: 10px solid #A0F;
+}
+
+body > footer {
+  border: 10px solid #00F;
+}
