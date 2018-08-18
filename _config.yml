@@ -15,4 +15,5 @@ github_username:  robert-laws
 
 # Build settings
 markdown: kramdown
-permalink: /posts/:title
+# permalink: /posts/:title
+paginate: 3
