@@ -28,3 +28,29 @@ body > footer {
 .subtitle {
   color: #F34D32;
 }
+
+/********** POSTS **************/
+article#post p, article#post h4 {
+  padding: 10px 0;
+}
+
+article#post ul {
+  margin-left: 20px;
+}
+
+article#post img.jekyll-img {
+  width: 200px;
+  border: 1px solid #CCC;
+}
+
+article#post blockquote {
+  border-left: 5px solid #921;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+article#post blockquote cite {
+  display: block;
+  margin-top: 4px;
+  font-size: 16px;
+}

@@ -15,9 +15,11 @@ github_username:  robert-laws
 
 # Build settings
 markdown: kramdown
+future: true
 highlighter: rouge
 # permalink: /posts/:title
 kramdown:
+  auto_ids: false
   input: GFM
   syntax_highlighter: rouge
 
@@ -25,5 +27,7 @@ kramdown:
 # Plugins
 plugins: [jekyll-paginate]
 
+# Pagination
 paginate: 2
 paginate_path: '/post/page:num/'
+permalink: /post/:title
