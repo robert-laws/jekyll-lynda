@@ -16,4 +16,9 @@ github_username:  robert-laws
 # Build settings
 markdown: kramdown
 # permalink: /posts/:title
-paginate: 3
+
+# Plugins
+plugins: [jekyll-paginate]
+
+paginate: 2
+paginate_path: '/post/page:num/'

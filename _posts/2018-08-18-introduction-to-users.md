@@ -2,7 +2,6 @@
 layout: post
 title:  "Introduction to Users"
 date:   2018-08-18 13:19:57 +0300
-categories: jekyll
 author: "Bob Cobb"
 excerpt_separator: <!-- more -->
 ---
