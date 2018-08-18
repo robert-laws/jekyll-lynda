@@ -9,7 +9,11 @@
     {{ content }}
   </section>  
 
-  <!-- footer content -->
-  {% include footer.html %}
+  <!-- footer content - conditional if content is a blog post -->
+  {% if page.id %}
+    {% include footer_post.html %}
+  {% else %}
+    {% include footer.html %}
+  {% endif %}
 </body>
 </html>
