@@ -24,3 +24,7 @@ body > section.content {
 body > footer {
   border: 10px solid #00F;
 }
+
+.subtitle {
+  color: #F34D32;
+}
