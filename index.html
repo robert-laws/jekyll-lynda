@@ -3,3 +3,7 @@ layout: default
 ---
 
 <p>Welcome to the website.</p>
+
+{% for post in site.posts %}
+  <a href="{{post.url}}">{{post.title}}</a>
+{% endfor %}
