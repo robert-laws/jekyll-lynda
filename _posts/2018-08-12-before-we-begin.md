@@ -3,6 +3,7 @@ layout: post
 title:  "Before we Begin"
 date:   2018-08-12 14:14:38 +0300
 author: "Bob Cobb"
+tags: [blogging, search]
 excerpt_separator: <!-- more -->
 ---
 

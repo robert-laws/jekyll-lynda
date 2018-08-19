@@ -3,6 +3,7 @@ layout: post
 title: "New Additions"
 date: 2018-08-19 19:03:23 +0300
 author: "Hal Hope"
+tags: [jekyll, web design]
 ---
 
 Some useful links: [Jekyll Website][1] and [Jekyll Documentation][2].

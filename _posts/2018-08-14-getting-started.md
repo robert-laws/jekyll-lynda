@@ -3,6 +3,7 @@ layout: post
 title:  "Getting Started"
 date:   2018-08-14 08:45:34 +0300
 author: "Bob Cobb"
+tags: [welcome, blogging, search]
 excerpt_separator: <!-- more -->
 ---
 
